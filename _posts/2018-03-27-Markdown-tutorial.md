@@ -1,9 +1,9 @@
 ---
-title: Markdown简明教程
+title: 第一次玩这玩意
 layout: post
 categories: markdown
 tags: markdown
-excerpt: 简要markdown语法
+excerpt: 第一次
 ---
 ---------
 
