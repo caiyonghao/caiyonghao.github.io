@@ -1,9 +1,9 @@
 ---
-title: 第一次玩这玩意
-layout: post
-categories: markdown
-tags: markdown
-excerpt: 第一次
+title: 第一次title
+layout: 第一次layout
+categories: 第一次categories
+tags: 第一次tags
+excerpt: 第一次excerpt
 ---
 ---------
 
